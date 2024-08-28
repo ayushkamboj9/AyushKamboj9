@@ -1,3 +1,5 @@
+![logo](https://github.com/ayushkamboj9/AyushKamboj9/blob/main/GitHub%20Banner.png)
+
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ayush Kamboj</h1>
